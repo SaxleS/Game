@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.game_viewer{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: auto;
+    height: auto;
+    background-color: grey;
+    /* background-image: url(/src/sprites/map/game_background_1.png); */
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+}
+

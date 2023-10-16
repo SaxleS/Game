@@ -1,0 +1,50 @@
+.backgroundGame_item-frontDecor {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-image:url(/src/sprites/map/lavel-1/front_decor.png);
+    background-repeat:round;
+    width: 1920px;
+    height: 1080px;
+}
+
+
+.backgroundGame_item-backDecor {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-image:url(/src/sprites/map/lavel-1/back_decor.png);
+    background-repeat:round;
+    
+    width: 1920px;
+    height: 1080px;
+}
+.backgroundGame_item-backLand {
+    position: absolute;
+    top: -50px;
+    left: 0px;
+    background-image:url(/src/sprites/map/lavel-1/back_land.png);
+    background-repeat:round;
+    width: 5000px;
+    height: 1080px;
+}
+.backgroundGame_item-groundDecor {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-image:url(/src/sprites/map/lavel-1/ground_decor.png);
+    background-repeat:round;
+    width: 1920px;
+    height: 1080px;
+}
+.backgroundGame_item-battleground {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-image:url(/src/sprites/map/lavel-1/battleground.png);
+    background-repeat:round;
+    width: 5000px;
+    height: 1080px;
+}
+
+

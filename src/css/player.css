@@ -1,0 +1,9 @@
+.player {
+    position: absolute;
+    width: 800px;
+    height: 190px;
+    background-image: url(/src/sprites/player/majo/walk/majo-right-walk-1.png);
+    background-repeat: no-repeat;
+}
+
+
